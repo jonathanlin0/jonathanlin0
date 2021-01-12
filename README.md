@@ -1,6 +1,12 @@
-### Name: Jonathan Lin
+#### Jonathan Lin
+##### James E. Taylor High School
 
-<!--
-**jonathanlin-github/jonathanlin-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Major Past Projects
+## 2020
+- Instagram Bot
+- A Star Algorithm Pathfinder
+- Speed Typing Bot
+- Piano Tiles Bot
 
--->
+## 2021
+- Java Swing Calculator
