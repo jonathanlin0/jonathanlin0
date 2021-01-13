@@ -1,7 +1,9 @@
-#### Jonathan Lin
-##### James E. Taylor High School
+### Jonathan Lin
+### James E. Taylor High School
+#### Java & Python
+### 
 
-# Major Past Projects
+## Major Past Projects
 ## 2020
 - Instagram Bot
 - A Star Algorithm Pathfinder
