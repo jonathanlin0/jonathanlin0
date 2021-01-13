@@ -10,3 +10,4 @@
 
 ## 2021
 - Java Swing Calculator
+- Java Swing GPA Calculator
