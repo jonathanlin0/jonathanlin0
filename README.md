@@ -1,5 +1,4 @@
 ### Jonathan Lin
-### James E. Taylor High School
 #### Java & Python
 ### 
 
