@@ -10,5 +10,6 @@
 - Piano Tiles Bot
 
 ### 2021
+- Pi Estimation Visualizer
 - Java Swing Calculator
 - Java Swing GPA Calculator
