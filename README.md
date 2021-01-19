@@ -13,3 +13,4 @@
 - Pi Estimation Visualizer
 - Java Swing Calculator
 - Java Swing GPA Calculator
+- Password Generator
