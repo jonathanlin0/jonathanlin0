@@ -4,13 +4,13 @@
 
 ## Major Past Projects
 ### 2020
-- Instagram Bot
-- A Star Algorithm Pathfinder
+- Instagram Bot (GUI)
+- A Star Algorithm Pathfinder (GUI)
 - Speed Typing Bot
 - Piano Tiles Bot
 
 ### 2021
-- Pi Estimation Visualizer
-- Java Swing Calculator
-- Java Swing GPA Calculator
-- Password Generator
+- Pi Estimation Visualizer (GUI)
+- Calculator (GUI)
+- GPA Calculator (GUI)
+- Password Generator (GUI)
