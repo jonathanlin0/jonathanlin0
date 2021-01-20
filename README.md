@@ -12,7 +12,7 @@
 #### 2021
 - Pi Estimation Visualizer (GUI)
 
-## Smaller Projects
+## Minor Projects
 #### 2021
 - Password Generator (GUI)
 - Calculator (GUI)
