@@ -10,6 +10,7 @@
 - Piano Tiles Bot
 
 #### 2021
+- Fake News Detector Integrated With Twitter Bot
 - Pi Estimation Visualizer (GUI)
 
 ## Minor Projects
