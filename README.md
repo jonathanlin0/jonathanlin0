@@ -9,13 +9,13 @@
 
 #### 2021
 - Fake News Detector Integrated With Twitter Bot
-- Pi Estimation Visualizer (GUI)
 
 ## Minor Projects
 #### 2020
 - Speed Typing Bot
 - Piano Tiles Bot
 #### 2021
+- Pi Estimation Visualizer (GUI)
 - Password Generator (GUI)
 - Calculator (GUI)
 - GPA Calculator (GUI)
