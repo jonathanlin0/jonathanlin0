@@ -20,3 +20,4 @@
 - Password Generator (GUI)
 - Calculator (GUI)
 - GPA Calculator (GUI)
+- Linkvertise Bypass Discord Bot
