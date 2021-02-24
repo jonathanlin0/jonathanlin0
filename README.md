@@ -10,6 +10,7 @@
 #### 2021
 - Fake News Detector Integrated With Twitter Bot
 - Portfolio Website
+- Proxy Generator
 
 ## Minor Projects
 #### 2020
