@@ -1,5 +1,5 @@
 ### Jonathan Lin
-#### Languages: Java, Python, HTML, Css
+#### Languages: Java, Python, HTML, CSS, GDScript, C#
 ### 
 
 ## Major Past Projects
