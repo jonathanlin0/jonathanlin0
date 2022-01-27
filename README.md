@@ -1,5 +1,7 @@
 ### Jonathan Lin
 #### Languages: Java, Python, HTML, CSS, GDScript, C#
+#### Frameworks: Selenium, Requests, Bootstrap
+#### Tools: Pygame, Tkinter
 ### 
 
 ## Major Projects
