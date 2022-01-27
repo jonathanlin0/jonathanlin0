@@ -4,8 +4,8 @@
 
 ## Major Projects
 #### 2020
-- [Instagram Follower Generator program](https://github.com/jonathanlin0/Instagram-Bot) (GUI)
-- A Star Algorithm Pathfinder (GUI)
+- [Instagram Follower Generator program](https://github.com/jonathanlin0/Instagram-Bot)
+- A Star Algorithm Pathfinder
 
 #### 2021
 - [Fake News Detector Integrated With Twitter Bot](https://github.com/jonathanlin0/Fake-News)
@@ -22,8 +22,8 @@
 - Speed Typing Bot
 - Piano Tiles Bot
 #### 2021
-- Pi Estimation Visualizer (GUI)
-- Password Generator (GUI)
-- Calculator (GUI)
-- GPA Calculator (GUI)
+- Pi Estimation Visualizer
+- Password Generator
+- Calculator
+- GPA Calculator
 - Linkvertise Bypass Discord Bot
