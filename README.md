@@ -12,7 +12,7 @@
 - Portfolio Website
 - Proxy Generator
 - [Malware Prevention Website](https://github.com/jonathanlin0/Bypasser-Website)
-- [Malware Prevention API] (https://github.com/jonathanlin0/Bypass-Website-API)(to accompany Malware Prevention Website)
+- [Malware Prevention API](https://github.com/jonathanlin0/Bypass-Website-API) (to accompany Malware Prevention Website)
 
 #### 2022
 - Prometheus (FBLA game; 2D platformer)
