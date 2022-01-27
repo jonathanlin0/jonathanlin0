@@ -2,7 +2,7 @@
 #### Languages: Java, Python, HTML, CSS, GDScript, C#
 ### 
 
-## Major Past Projects
+## Major Projects
 #### 2020
 - [Instagram Follower Generator program](https://github.com/jonathanlin0/Instagram-Bot) (GUI)
 - A Star Algorithm Pathfinder (GUI)
