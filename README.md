@@ -1,31 +1,15 @@
-### Jonathan Lin
-#### Languages: Java, Python, HTML, CSS, GDScript, C#
-#### Frameworks: Selenium, Requests, Bootstrap
-#### Tools: Pygame, Tkinter
-### 
+<h1 align="center">Hi 👋, I'm Jonathan Lin</h1>
+<h3 align="center">CS @ Caltech 2026</h3>
 
-## Major Projects
-#### 2020
-- [Instagram Follower Generator program](https://github.com/jonathanlin0/Instagram-Bot)
-- A Star Algorithm Pathfinder
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanlin0&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanlin0" /> </p>
 
-#### 2021
-- [Fake News Detector Integrated With Twitter Bot](https://github.com/jonathanlin0/Fake-News)
-- Portfolio Website
-- Proxy Generator
-- [Malware Prevention Website](https://github.com/jonathanlin0/Bypasser-Website)
-- [Malware Prevention API](https://github.com/jonathanlin0/Bypass-Website-API) (to accompany Malware Prevention Website)
+- 👨‍💻 All of my projects are available at [https://jonathanlin0.github.io/](https://jonathanlin0.github.io/)
 
-#### 2022
-- [Prometheus](https://github.com/jonathanlin0/prometheus) (FBLA game; 2D platformer)
+- 📫 How to reach me **jonathan@caltech.edu**
 
-## Minor Projects
-#### 2020
-- Speed Typing Bot
-- Piano Tiles Bot
-#### 2021
-- Pi Estimation Visualizer
-- Password Generator
-- Calculator
-- GPA Calculator
-- Linkvertise Bypass Discord Bot
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/j-lin0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="j-lin0" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanlin0&show_icons=true&locale=en" alt="jonathanlin0" /></p>
