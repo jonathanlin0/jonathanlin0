@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Lin</h1>
 <h3 align="center">CS @ Caltech '26</h3>
 
-<p align="left"> <img src="https://03c5-131-215-157-98.ngrok-free.app/github-visits/" alt="jonathanlin0" /> </p>
+![jonathanlin0](https://03c5-131-215-157-98.ngrok-free.app/github-visits/)
 
 - 👨‍💻 All of my projects are available at [https://jonathanlin0.github.io/](https://jonathanlin0.github.io/)
 
