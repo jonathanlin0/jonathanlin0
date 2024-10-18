@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Lin</h1>
 <h3 align="center">CS @ Caltech '26</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanlin0&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanlin0" /> </p>
+<p align="left"> <img src="https://03c5-131-215-157-98.ngrok-free.app/github-visits/" alt="jonathanlin0" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://jonathanlin0.github.io/](https://jonathanlin0.github.io/)
 
