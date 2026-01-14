@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://grateful-fit-man.ngrok-free.app/api/logging/github-visits-count/" alt="jonathanlin0" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://jonathanlin0.github.io/](https://jonathanlin0.github.io/)
+- 👨‍💻 (Most of) my projects are available at [https://jonathanlin0.github.io/](https://jonathanlin0.github.io/)
 
 - 📫 How to reach me **jonathan@caltech.edu**
 
