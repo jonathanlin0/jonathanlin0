@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Lin</h1>
 <h3 align="center">CS @ Caltech '26</h3>
 
-<p align="left"> <img src="https://grateful-fit-man.ngrok-free.app/api/logging/github-visits-count/" alt="jonathanlin0" /> </p>
+<p align="left"> <img src="https://api.jonathanlin.net/log/github-visits" alt="jonathanlin0" /> </p>
 
 - 👨‍💻 (Most of) my projects are available at [https://jonathanlin0.github.io/](https://jonathanlin0.github.io/)
 
