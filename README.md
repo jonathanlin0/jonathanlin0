@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://api.jonathanlin.net/log/github-visits" alt="jonathanlin0" /> </p>
 
-- 👨‍💻 (Most of) my projects are available at [https://jonathanlin0.github.io/](https://jonathanlin0.github.io/)
+- 👨‍💻 (Most of) my projects are available at [jonathanlin.net](http://jonathanlin.net/)
 
 - 📫 How to reach me **jonathan@caltech.edu**
 
